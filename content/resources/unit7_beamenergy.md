@@ -5,6 +5,8 @@ description: This resource includes information on kinematic assumptions on a be
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/26b331e8d4258d9cd36e0686139784be_unit7_beamenergy.pdf
 file_size: 216119
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

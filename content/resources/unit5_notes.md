@@ -5,6 +5,8 @@ description: This resource includes information on constitutive equations, compl
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/05953c9b99e07e647cb96c1fe17c721f_unit5_notes.pdf
 file_size: 133660
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

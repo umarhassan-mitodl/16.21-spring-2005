@@ -4,6 +4,8 @@ description: This resource includes a set of five questions to be solved by the 
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/f27b5e24b32c184d78e11aaa0922b9b2_assn9.pdf
 file_size: 23220
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

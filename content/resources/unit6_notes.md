@@ -5,6 +5,8 @@ description: This resource includes a complete numerical derivation of boundary 
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/248d102c71a8fc89f0e2fb87c0c4bf2d_unit6_notes.pdf
 file_size: 78387
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

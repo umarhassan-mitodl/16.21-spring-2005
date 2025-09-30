@@ -5,6 +5,8 @@ description: This resource includes solutions to the problem given in practice p
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/de4ece47f6384f7978a681b8bc42ced9_lastrec_prac_sol.pdf
 file_size: 527972
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

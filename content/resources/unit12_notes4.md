@@ -5,6 +5,8 @@ description: This resource includes information on imposition of boundary condit
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/3821a5a43d2a6a88406ccff31058a946_unit12_notes4.pdf
 file_size: 389519
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

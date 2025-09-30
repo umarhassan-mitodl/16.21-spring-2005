@@ -3,6 +3,8 @@ content_type: page
 description: The syllabus section contains learning objectives, measurable outcomes,
   prerequisites, lectures, recitations, active learning, class homework, and grading
   directions required for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -67,7 +69,7 @@ In class concept questions with the aid of PRS cards (a custom version of the sy
 
 Muddy cards: this is a well established and successful mechanism of feedback for the instructor which many students are familiar with. Cards are distributed at the beginning of each lecture and the students put down their comments on the lecture: specific points on the material covered in class that was not clearly presented, comments that the student considers as appropriate feedback for the instructor, suggestions that might contribute to the improvement of the lectures. The cards are turned in at the end of the lecture. The instructors will make every effort to respond to the muddy cards at the beginning of the following lecture. Muddy cards are anonymous and an essential feedback mechanism for the instructor. We strongly encourage their use.
 
-Hands on collaborative computing sessions: In these sessions, each student uses a computer terminal to operate a central computer shared by the whole group. A computing problem is presented to the class in advance, e.g. a homework problem, and the solution is developed and implemented during the recitation on the central computer with the active, hands on participation of the students and instructor. A special networking technology ({{% resource_link "9bfc4289-40a0-46b6-9c22-e4067fa6ebb7" "VNC" %}}) is utilized that allows the simultaneous action of the input devices (mouse, keyboard) from all the participant clients, as well as the output display on all the participant clients' screens.
+Hands on collaborative computing sessions: In these sessions, each student uses a computer terminal to operate a central computer shared by the whole group. A computing problem is presented to the class in advance, e.g. a homework problem, and the solution is developed and implemented during the recitation on the central computer with the active, hands on participation of the students and instructor. A special networking technology ([VNC](http://www.realvnc.com/)) is utilized that allows the simultaneous action of the input devices (mouse, keyboard) from all the participant clients, as well as the output display on all the participant clients' screens.
 
 Course Work Homework
 --------------------
@@ -154,4 +156,4 @@ Students are strongly encouraged to discuss homework problems with each other, s
 
 Each student's total grade on the project reports will be based on a team grade and on an individual grade. The team grade will be 20% of the project report grade and will be based on the quality of the report as a whole. The individual grade will be 80% of the project report grade and will be based on the individual student's contribution to the team effort. The instructors will assess individual contributions to the team project through their interactions with the teams throughout the semester.
 
-The final letter grades will be assigned according to the {{% resource_link "8605cae4-1beb-4704-bb10-db8deb8fd44f" "Rules and Regulations of the Faculty" %}}.
+The final letter grades will be assigned according to the [Rules and Regulations of the Faculty](http://web.mit.edu/faculty/governance/rules/2.60.html).

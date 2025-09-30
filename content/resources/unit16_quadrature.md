@@ -4,6 +4,8 @@ description: Special file containing tools required for unit 16.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/06b1b9ffc321743cc399732b1a702d48_Unit16_quadrature.nb
 file_size: 10867
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

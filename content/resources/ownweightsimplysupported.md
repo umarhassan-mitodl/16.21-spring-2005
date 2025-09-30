@@ -4,6 +4,8 @@ description: Special file containing solution for assignment 8.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/6bdee773356cc302b7cbc76775f032d6_ownweightsimplysupported.nb
 file_size: 6979
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

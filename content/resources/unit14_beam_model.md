@@ -4,6 +4,8 @@ description: Special file containing tools required for unit 14.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/95b2626354780409aaa76da363efcf6c_Unit14_beam_model.nb
 file_size: 38871
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

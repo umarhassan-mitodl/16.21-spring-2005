@@ -4,6 +4,8 @@ description: Special file containing tools required for unit 3.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/1e63510dda1191e3878ec9042c4a9bbe_Unit3_nlstrains.nb
 file_size: 4327
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
