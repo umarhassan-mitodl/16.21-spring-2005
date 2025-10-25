@@ -5,8 +5,6 @@ description: This resource includes information on principle of virtual displace
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/8b5f22dba0f1f7e1c586b3984eda52bc_unit8_notes.pdf
 file_size: 161587
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

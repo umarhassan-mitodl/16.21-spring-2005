@@ -4,8 +4,6 @@ description: This resource includes information on approximate methods, and Ritz
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/ef42fadb4617137c55c3ca8847db779a_unit11_notes1.pdf
 file_size: 886098
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

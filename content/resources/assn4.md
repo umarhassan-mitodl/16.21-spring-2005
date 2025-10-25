@@ -4,8 +4,6 @@ description: This resource includes five problem statement related to elasticity
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/209ec712db24ce08475c05e8a74f40f2_assn4.pdf
 file_size: 191447
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

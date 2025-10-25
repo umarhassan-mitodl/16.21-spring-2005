@@ -5,8 +5,6 @@ description: This resource includes information on the finite methods, finite as
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/494cf330ccafba81742acf3567e91377_unit12_notes3.pdf
 file_size: 625277
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

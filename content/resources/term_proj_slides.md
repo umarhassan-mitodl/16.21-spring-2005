@@ -5,8 +5,6 @@ description: This resource includes information on operational sequence, design 
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/eeea2d2b4fef816687a738125f8960ac_term_proj_slides.pdf
 file_size: 1662227
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

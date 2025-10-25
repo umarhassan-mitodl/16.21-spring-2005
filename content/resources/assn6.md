@@ -4,8 +4,6 @@ description: Special file containing solution for assignment 6.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/6a72f386da862372694e95bc6b3696e9_assn6.nb
 file_size: 3414
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

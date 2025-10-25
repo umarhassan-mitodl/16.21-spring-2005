@@ -2,8 +2,6 @@
 content_type: page
 description: This section consists of lecture topics covered in course along with
   the numerical examples and notes.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

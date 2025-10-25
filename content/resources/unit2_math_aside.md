@@ -5,8 +5,6 @@ description: This resource includes information on indicial notation, summation 
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/9c108fc07d748e15b4702250bd84f53a_unit2_math_aside.pdf
 file_size: 97015
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource includes information on the finite element method, an
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/68e20ad8745c7c34c036f0fc6a94ef5b_unit12_notes1.pdf
 file_size: 751997
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

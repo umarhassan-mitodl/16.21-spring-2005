@@ -4,8 +4,6 @@ description: Special file containing tools required for unit 12, rods
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/ec8982a8b77424f51327ff44274650b4_Unit12_rods_app.nb
 file_size: 8850
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

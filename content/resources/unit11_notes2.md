@@ -4,8 +4,6 @@ description: This resource includes information on Ritz method.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/48f4acf11b5bfc3eefdaebb4b1bdfe9a_unit11_notes2.pdf
 file_size: 349461
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

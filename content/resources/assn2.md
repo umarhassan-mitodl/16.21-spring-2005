@@ -4,8 +4,6 @@ description: This resource includes a problem set with four problems.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/aac5387b28c666d171af6130dee321a1_assn2.pdf
 file_size: 76908
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

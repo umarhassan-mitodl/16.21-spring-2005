@@ -4,8 +4,6 @@ description: This resource includes few warm up exercises and problems for grade
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/ee179dfd8d48a2e3ac9690aaedb06588_assn3.pdf
 file_size: 120188
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

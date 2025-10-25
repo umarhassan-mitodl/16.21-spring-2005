@@ -5,8 +5,6 @@ description: This resource includes information on finite element model of a bea
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/38fd89b6d26c94328e107b036114881b_unit14_notes.pdf
 file_size: 513517
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

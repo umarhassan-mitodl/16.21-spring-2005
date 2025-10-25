@@ -5,8 +5,6 @@ description: This resource includes information on transformation of strain comp
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/645c1c7bd79423f7bdc280b03e128bb4_unit3_notes.pdf
 file_size: 153581
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

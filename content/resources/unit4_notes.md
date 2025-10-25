@@ -4,8 +4,6 @@ description: This resource includes information on first law of thermodynamics.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/6a7365929517af77bc45ff70aec5108e_unit4_notes.pdf
 file_size: 103323
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
